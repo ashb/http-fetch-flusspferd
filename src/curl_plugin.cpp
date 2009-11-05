@@ -36,7 +36,7 @@ FLUSSPFERD_CLASS_DESCRIPTION(
   (augment_constructor, 1)
   (methods,
     ("setMethod", bind, set_method)
-    ("setReuqestHeaders", bind, set_request_headers)
+    ("setRequestHeaders", bind, set_request_headers)
     ("perform", bind, perform)
   )
 )
